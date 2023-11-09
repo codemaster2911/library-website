@@ -5,6 +5,7 @@ Library Management System is a system developed as a prototype for IIT Indore Ce
  - Purnadip Chakrabarti (ChakPC)
  - Komal Kumar (kkomalk)
  - Priyanshu Uttam (uttam509)
+ - Tushar Goyal(codemaster2911)
 
 <h2>Tech Stack</h2>
 
